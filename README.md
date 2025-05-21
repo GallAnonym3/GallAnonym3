@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning PHP and Java
 - 💞️ I’m looking to collaborate on PHP and Java
 - 📫 How to reach me: you can't
-- 😄 Pronouns: Thy/Thee
 - ⚡ Fun fact: You don't know who I'm
 
 <!---
