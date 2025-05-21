@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @GallAnonym3
-- 👀 I’m interested in programming languages, especially HTML
-- 🌱 I’m currently learning PHP and Java
-- 💞️ I’m looking to collaborate on PHP and Java
 - 📫 How to reach me: you can't
 - ⚡ Fun fact: You don't know who I'm
 
